@@ -1,1 +1,4 @@
-echo "ALX" "ALX School is so cool!"
+ HEAD
+echo "ALX" "ALX School is so cool"
+echo "ALX" echo "ALX School"
+update_script
